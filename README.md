@@ -1,2 +1,3 @@
 # hello-world
 First try in Git-Hub
+按教程测试一下……
